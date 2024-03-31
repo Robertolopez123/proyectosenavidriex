@@ -1,3 +1,4 @@
 # Sistema VIDRIEX
-[![pos-portada][def]](https://startbootstrap.com/theme/sb-admin-2)
+[![pos-portada][def]]
+linkrel(https://startbootstrap.com/theme/sb-admin-2)
 
