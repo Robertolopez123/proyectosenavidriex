@@ -1,4 +1,4 @@
 # Sistema VIDRIEX
-[![pos-portada][def]]
-linkrel(https://startbootstrap.com/theme/sb-admin-2)
+Plantilla utilizada en el proyecto:
+(https://startbootstrap.com/theme/sb-admin-2)
 
